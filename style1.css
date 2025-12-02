@@ -271,6 +271,7 @@
         position: absolute;
         left:23%;
         bottom:80px;
+        z-index:9999;
     }
     .btn{
         background-color: seagreen;
@@ -360,5 +361,6 @@
     
 
         
+
 
     
